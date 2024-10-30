@@ -6,7 +6,6 @@ node1_leaf:
 node2_leaf:
 	$(MAKE) -C root/node-2/leaf
 
-
 hello_node1:
 	$(MAKE) -C root/node-1/leaf hello
 
